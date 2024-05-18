@@ -63,7 +63,7 @@ The reciprocal of the principal [cube root][cube-root] is defined as
 ## Usage
 
 ```javascript
-import rcbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rcbrtf@esm/index.mjs';
+import rcbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rcbrtf@v0.0.1-esm/index.mjs';
 ```
 
 #### rcbrtf( x )
@@ -107,7 +107,7 @@ v = rcbrtf( Infinity );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
-import rcbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rcbrtf@esm/index.mjs';
+import rcbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rcbrtf@v0.0.1-esm/index.mjs';
 
 var x;
 var i;
