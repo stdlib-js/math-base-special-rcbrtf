@@ -63,6 +63,11 @@ The reciprocal of the principal [cube root][cube-root] is defined as
 ## Usage
 
 ```javascript
+import rcbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rcbrtf@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-rcbrtf/tags). For example,
+
+```javascript
 import rcbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rcbrtf@v0.0.2-deno/mod.js';
 ```
 
@@ -102,7 +107,7 @@ v = rcbrtf( Infinity );
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import rcbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rcbrtf@v0.0.2-deno/mod.js';
+import rcbrtf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-rcbrtf@deno/mod.js';
 
 var x;
 var i;
