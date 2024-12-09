@@ -223,6 +223,13 @@ int main( void ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-base/special/rcbrt`][@stdlib/math/base/special/rcbrt]</span><span class="delimiter">: </span><span class="description">compute the reciprocal cube root of a double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/cbrtf`][@stdlib/math/base/special/cbrtf]</span><span class="delimiter">: </span><span class="description">compute the cube root of a single-precision floating-point number.</span>
+
 </section>
 
 <!-- /.related -->
@@ -302,6 +309,10 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [cube-root]: https://en.wikipedia.org/wiki/Cube_root
 
 <!-- <related-links> -->
+
+[@stdlib/math/base/special/rcbrt]: https://github.com/stdlib-js/math-base-special-rcbrt
+
+[@stdlib/math/base/special/cbrtf]: https://github.com/stdlib-js/math-base-special-cbrtf
 
 <!-- </related-links> -->
 
